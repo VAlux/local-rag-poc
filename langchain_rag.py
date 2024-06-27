@@ -52,6 +52,6 @@ if __name__ == "__main__":
         if user_input.lower() == "quit":
             break
 
-        response = result = chain.invoke({"input": user_input})
+        response = chain.invoke({"input": user_input})
         log.print_green("Response: \n\n")
         log.print_green(response.get("answer"))
