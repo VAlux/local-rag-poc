@@ -1,0 +1,6 @@
+ollama
+openai
+chromadb
+langchain_community
+fastembed
+torch

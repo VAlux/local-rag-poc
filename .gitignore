@@ -1,0 +1,5 @@
+venv/
+embeddings/
+__pycache__/
+storage.txt
+
